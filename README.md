@@ -38,9 +38,15 @@ At the time of this writing, several dominant trends are shaping the next five y
 
 ## The Next Five Years: Key Trends (2025-2030)
 
-### 🚀 Positive Trends: The Bright Side of AI Evolution
-
 Leading companies are already deploying agentic AI systems, autonomously handling tasks like customer service, data analysis, and workflow management. By 2027, many organizations, particularly in tech and finance, will have robust agentic AI infrastructure, enabling seamless automation and enhanced productivity. Companies that begin investing today are likely to achieve mature implementations by 2030, leveraging AI to stay competitive. Those that fail to adapt risk obsolescence, as AI-driven efficiency becomes a baseline for survival in most industries. However, fully AI-run companies remain a science fiction fantasy due to AI’s inherent limitations, including biases, hallucinations, and a tendency to generalize, which stifles true creativity. The winning strategy will be synergistic human-AI collaboration, where human judgment, creativity, and ethical oversight complement AI’s efficiency and scale, driving innovation and sustainable competitive advantage.
+
+* **Caveat on Timeline Feasibility:**
+
+    While the trends outlined above are projected to unfold between 2025 and 2030, inherent resistance to change, including societal pushback, regulatory hurdles, and challenges in scaling AI infrastructure globally, may extend time horizons for some predictions. Factors such as institutional inertia, limited digital access in underserved regions, and the complexity of deploying robust AI systems at scale could delay widespread adoption, particularly for transformative changes in education, healthcare, and workforce integration.
+
+---
+
+### 🚀 Positive Trends: The Bright Side of AI Evolution
 
 **1. Democratization of Creativity and Knowledge Work**
 - AI is making high-quality content creation, coding, writing, and analysis accessible to people without specialized training
